@@ -99,6 +99,6 @@ class SiteController extends Controller
     }
     public function actionHello2()
     {
-        return 'Hello,world2!';
+        return 'Hello,world2123!';
     }
 }
