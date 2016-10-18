@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3e0f5439a4954edbbf320a0fa76f994db6fd1828
 Options +FollowSymlinks
 IndexIgnore */*
 RewriteEngine on
@@ -12,6 +15,7 @@ RewriteRule (.*) /web/$1
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+<<<<<<< HEAD
 =======
 Options +FollowSymlinks
 IndexIgnore */*
@@ -27,4 +31,6 @@ RewriteRule (.*) /web/$1
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 >>>>>>> 286373e777d0d40b925c32a6ef6701ceadc1d496
+=======
+>>>>>>> 3e0f5439a4954edbbf320a0fa76f994db6fd1828
 RewriteRule . /web/index.php
