@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Options +FollowSymlinks
 IndexIgnore */*
 RewriteEngine on
@@ -11,4 +12,19 @@ RewriteRule (.*) /web/$1
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+=======
+Options +FollowSymlinks
+IndexIgnore */*
+RewriteEngine on
+
+RewriteCond %{REQUEST_URL} !^/(web)
+RewriteRule ^assets/(.*)$ /web/assets/$1 [L]
+RewriteRule ^css/(.*)$ /web/css/$1 [L]
+RewriteRule ^js/(.*)$ /web/js/$1 [L]
+RewriteRule ^images/(.*)$ /web/images/$1 [L]
+RewriteRule (.*) /web/$1
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+>>>>>>> 286373e777d0d40b925c32a6ef6701ceadc1d496
 RewriteRule . /web/index.php
