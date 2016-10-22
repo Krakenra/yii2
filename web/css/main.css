@@ -733,7 +733,7 @@ h2.title:before{
   border-top: 0 none;
 }
 
-.category-product .spanel-default .badge {
+.category-product .panel-default .badge {
   background:none;
   border-radius: 10px;
   color: #696763;
