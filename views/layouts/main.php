@@ -68,7 +68,11 @@ ltAppAsset::register($this);
             <div class="row">
                 <div class="col-sm-4">
                     <div class="logo pull-left">
+<<<<<<< HEAD
                         <a href="index.html"><img src="/images/home/logo.png" alt="" /></a>
+=======
+                        <a href="index.html"><img src="images/home/logo.png" alt="" /></a>
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                     </div>
                     <div class="btn-group pull-right">
                         <div class="btn-group">
@@ -171,7 +175,11 @@ ltAppAsset::register($this);
                         <div class="video-gallery text-center">
                             <a href="#">
                                 <div class="iframe-img">
+<<<<<<< HEAD
                                     <img src="/images/home/iframe1.png" alt="" />
+=======
+                                    <img src="images/home/iframe1.png" alt="" />
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                                 </div>
                                 <div class="overlay-icon">
                                     <i class="fa fa-play-circle-o"></i>
@@ -186,7 +194,11 @@ ltAppAsset::register($this);
                         <div class="video-gallery text-center">
                             <a href="#">
                                 <div class="iframe-img">
+<<<<<<< HEAD
                                     <img src="/images/home/iframe2.png" alt="" />
+=======
+                                    <img src="images/home/iframe2.png" alt="" />
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                                 </div>
                                 <div class="overlay-icon">
                                     <i class="fa fa-play-circle-o"></i>
@@ -201,7 +213,11 @@ ltAppAsset::register($this);
                         <div class="video-gallery text-center">
                             <a href="#">
                                 <div class="iframe-img">
+<<<<<<< HEAD
                                     <img src="/images/home/iframe3.png" alt="" />
+=======
+                                    <img src="images/home/iframe3.png" alt="" />
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                                 </div>
                                 <div class="overlay-icon">
                                     <i class="fa fa-play-circle-o"></i>
@@ -216,7 +232,11 @@ ltAppAsset::register($this);
                         <div class="video-gallery text-center">
                             <a href="#">
                                 <div class="iframe-img">
+<<<<<<< HEAD
                                     <img src="/images/home/iframe4.png" alt="" />
+=======
+                                    <img src="images/home/iframe4.png" alt="" />
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                                 </div>
                                 <div class="overlay-icon">
                                     <i class="fa fa-play-circle-o"></i>
@@ -229,7 +249,11 @@ ltAppAsset::register($this);
                 </div>
                 <div class="col-sm-3">
                     <div class="address">
+<<<<<<< HEAD
                         <img src="/images/home/map.png" alt="" />
+=======
+                        <img src="images/home/map.png" alt="" />
+>>>>>>> 1cee8bad258bf236bb3cf6cd129fe90c9a66926e
                         <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
                     </div>
                 </div>
