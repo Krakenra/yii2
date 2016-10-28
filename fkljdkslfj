@@ -1,0 +1,53 @@
+[33mcommit 5f922d0a0a40f8bd7b59d15966ced366bfc2bde2[m
+Author: makskarv <makskarv@mail.ru>
+Date:   Tue Oct 18 19:17:03 2016 +0300
+
+    'basic'
+
+[33mcommit 6962ff6e2b7fc21d78b6cd1162a536ad62558883[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Wed Sep 28 14:29:52 2016 +0300
+
+    Kovalb2
+
+[33mcommit ba569813921df604576239ef3a31227fa34da02c[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Wed Sep 28 14:16:40 2016 +0300
+
+    Kovalb
+
+[33mcommit 06c09ce66a386ad90c25c9f8a1dd61121e4decde[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Wed Sep 28 14:15:01 2016 +0300
+
+    Kovalb
+
+[33mcommit 21ccf4bb9b1df2958df6f8ec0924a9f70e243d55[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Mon Sep 26 15:22:20 2016 +0300
+
+    my README
+
+[33mcommit f5051ed81c73ae4148f88dfbdbbce4f712f8654e[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Mon Sep 26 15:20:42 2016 +0300
+
+    my first commit
+
+[33mcommit f6427da52999bf54a3886952e77c6703d8161fc3[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Mon Sep 26 15:15:50 2016 +0300
+
+    5 commit
+
+[33mcommit d903eb2dce52729cac4038c2e9059cbb77d37d43[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Mon Sep 26 14:17:11 2016 +0300
+
+    fitst commit
+
+[33mcommit 0df78a66c8fcba602579209ac24f512ddad3a81e[m
+Author: Valera <tihon264@yandex.ru>
+Date:   Mon Sep 26 13:39:38 2016 +0300
+
+    first commit
